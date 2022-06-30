@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="teletoon.ca" tvg-name="Teletoon HDCA" x-tvg-url="http://link.comstar.tv:7899/xmltv.php?username=84567091&password=3172086&output=ts&type=m3u_plus"
+#EXTINF:-1 tvg-ID="teletoon.ca" tvg-name="CA: Teletoon HD" x-tvg-url="http://link.comstar.tv:7899/xmltv.php?username=84567091&password=3172086&output=ts&type=m3u_plus"
  tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/15/2018/05/30155519/Teletoon_VOD.png" group-title="CA-Kids",CA: Teletoon  HD
 http://link.comstar.tv:8080/84567091/3172086/26968
 #EXTINF:-1 tvg-ID="gloob.br" tvg-name="BR: GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1200px-Gloob_logo.svg.png" group-title="Brazil",BR: GLOOB HD
